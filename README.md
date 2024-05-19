@@ -72,13 +72,13 @@ backend
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/university-management-system-backend.git
+   git clone https://github.com/saikrishnayadav764/uni_backend.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd university-management-system-backend
+   cd uni_backend-main
    ```
 
 3. Install dependencies:
