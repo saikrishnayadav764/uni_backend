@@ -89,7 +89,7 @@ backend
 
 4. Set up environment variables:
    - Create a `.env` file in the root directory.
-   - Define environment variables such as database connection URI and JWT secret.
+   - Define environment variable JWT secret.
 
 5. Start the server:
 
