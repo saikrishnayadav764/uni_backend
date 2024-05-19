@@ -1,6 +1,4 @@
-Here's the updated README.md based on the provided directory structure and existing routes:
 
-```markdown
 # University Management System Backend
 
 Welcome to the backend repository of the University Management System! This repository contains the server-side code for managing the backend functionalities of the system.
